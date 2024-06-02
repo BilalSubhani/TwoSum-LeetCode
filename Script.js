@@ -11,3 +11,4 @@ var twoSum = function(nums, target) {
 };
 
 // You can use var instead of const when creating map and comp, it will come at the cost of run-time. 
+// With this solution, the run-time is 54 ms.
